@@ -31,7 +31,7 @@
     }
   },
   "NegativeWord": {
-    "words" {
+    "words": {
       "string": ["fear","bad","sad","lost","confused","sad","rude","fear","rude","difficult","ugly","bad","criticism"]
     }
   }
