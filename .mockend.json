@@ -24,15 +24,5 @@
         "[0.2,0.6,0.2]"
       ]
     }
-  },
-  "PositiveWord": {
-    "words": {
-      "string": ["brave","good","happy","great","Nice","happy","thanks","good","excited","brave","easy","lovely","excited"]
-    }
-  },
-  "NegativeWord": {
-    "words": {
-      "string": ["fear","bad","sad","lost","confused","sad","rude","fear","rude","difficult","ugly","bad","criticism"]
-    }
   }
 }
