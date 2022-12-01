@@ -28,7 +28,7 @@
       "string": "['brave','good','happy','great','Nice','happy','thanks','good','excited','brave','easy','lovely','excited']"
     },
     "negativeTags": {
-      "string": "[\\"fear\\",\\"bad\\",\\"sad\\",\\"lost\\",\\"confused\\",\\"sad\\",\\"rude\\",\\"fear\\",\\"rude\\",\\"difficult\\",\\"ugly\\",\\"bad\\",\\"criticism\\"]"
+      "string": "['fear','bad','sad','lost','confused','sad','rude','fear','rude','difficult','ugly','bad','criticism']"
     }
   }
 }
